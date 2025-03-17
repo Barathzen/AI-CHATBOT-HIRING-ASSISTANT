@@ -8,18 +8,19 @@ A Streamlit-based chatbot for initial candidate screening using Google’s Gemin
 ## Setup
 1. Clone the repository:
 
-   git clone <repo-url>
+   git clone https://github.com/Barathzen/AI-CHATBOT-HIRING-ASSISTANT/
+   
    cd TalentScoutChatbot
 
-2. Install dependencies:
+3. Install dependencies:
 
    pip install -r requirements.txt
 
-3. Set up your Google API key:
+4. Set up your Google API key:
 
    Add it to a .env file as GOOGLE_API_KEY=your_api_key.
 
-4. streamlit run main.py
+5. streamlit run main.py
 
 
 
